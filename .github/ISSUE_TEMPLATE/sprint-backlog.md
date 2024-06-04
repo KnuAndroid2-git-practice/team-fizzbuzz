@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Description
-
+15의 배수인 경우, Fizzbuzz 출력
 ## Tasks
 
 - [] item
